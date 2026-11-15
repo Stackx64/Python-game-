@@ -1,22 +1,19 @@
-# 🪖 Wasteland Escape Game
+# Wasteland Survival Game
 
-A text adventure made in Python. You wake up abandoned in a wasteland after a war and need to escape.
+A simple text-based survival game made with Python.
 
-- 🛩️ **Left:** An old crashed plane. It needs 5 supplies to fix and fly away.
-- 🕳️ **Right:** A dark cave with puzzles and a hidden crate full of supplies.
+## How to Play
+- Explore the wasteland.
+- Enter the cave and collect supplies.
+- Answer questions and solve jumbled words.
+- Collect 5 supplies to repair the plane.
+- Escape the wasteland and win!
 
-## How to run it
+## Requirements
+- Python 3
+- VS Code or any Python editor
 
-1. Make sure Python is installed.
-2. Run this in your terminal:
-   ```
-   python game.py
-   ```
-
-## How to play
-
-- Go into the cave and solve the puzzles to earn supplies.
-- Open the crate for some free supplies too.
-- Once you have **5 supplies**, head to the plane to escape and win! 🎉
-
-If you type something wrong, no worries — just try again.
+## Run
+```bash
+python main.py
+```
